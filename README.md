@@ -22,6 +22,10 @@ iex > RocketFuel.Calculator.start(28801, flight_routes)
 51898
 ```
 
+### Running the unit tests
+
+* Run `mix test`
+
 ## Authors
 
 - Rafael Antunes
