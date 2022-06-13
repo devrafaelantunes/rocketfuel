@@ -3,10 +3,6 @@
 This application calculate the precise amount of fuel required to launch a rocket from one planet
 of the Solar system and to land on another, depending on the flight route.
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
-
 ## Getting Started
 
 ### Installing
@@ -28,8 +24,8 @@ iex > RocketFuel.Calculator.start(28801, flight_routes)
 
 ## Authors
 
-Rafael Antunes
-dev@rafaelantun.es
+- Rafael Antunes
+- dev@rafaelantun.es
 
 ## Version History
 
