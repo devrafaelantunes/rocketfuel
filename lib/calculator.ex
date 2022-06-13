@@ -33,6 +33,8 @@ defmodule RocketFuel.Calculator do
 
     The function will ignore the routes that did not pass the verification, but will still calculate the ones
     that did. The user is warned if any of the routes were ignored.
+
+    REMINDER: The flight routes must be in correct order of events.
   """
   @spec start(mass(), flight_routes()) :: number()
   def start(mass, flight_routes) when is_list(flight_routes) do
